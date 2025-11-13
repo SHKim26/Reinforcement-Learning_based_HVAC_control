@@ -14,7 +14,7 @@
 
 - Needs for optimal control : 환풍기와 에어컨의 강도를 적절히 조절하면, 실내 온도 불균형을 해소하면서도 공간 전체가 타겟 온도에 도달하는 비용 효율적인 제어가 도출가능함.
 
-## Markov Deicion Process (MDP) formulation
+## Markov Deicion Process (MDP)
 
 ### State (관측값)
 - 형태: (20, 20) 2D 격자
